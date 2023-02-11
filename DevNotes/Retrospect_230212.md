@@ -28,9 +28,9 @@
 - Opportunity: 발전 가능한 환경
 - Threat: 생산성 저하 주의 
 ### Environment Management
-- Strength: 책임감, 문제 관리, 적응, 변화, 모방, 논리
+- Strength: 책임감, 문제 관리, 적응, 변화, 모방 능력
 - Weakness: 심신 관리 미숙
-- Opportunity: 집단에 속하지 않은 기간에 합리적인 체제 구축
+- Opportunity: 자기 이해 및 심신 관리 가능한 환경
 - Threat: 외부 요인 차단으로 인한 불이익 주의
 ### Additional Research
 - Strength: 영어 회화, 검색 능력
