@@ -1,7 +1,7 @@
 # Tasker
 
 # Work Rules
-- 우선순위 부여 및 계획
+- 계획 및 우선순위 관리
 - 컨디션 관리
-- 별도 리서치
-DevNotes
+- 별도 리서치  
+=> [DevNotes](https://github.com/1602spam/Tasker/tree/main/DevNotes)
