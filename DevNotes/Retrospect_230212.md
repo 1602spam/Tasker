@@ -1,6 +1,6 @@
 # Retrospect
 
-## Previous Project...
+## In Previous Project...
 ### i. Pros
 - 프로세스 전반 필요 조건 이해
 - 의사소통 숙달
@@ -16,7 +16,7 @@
 -- 회고  
 - Biggest Personality Growth through Self-Reflection
 
-## Current Project...
+## In Current Project...
 ### Plan and Prioritize
 - Strength: 페이지 및 함수 리스트 작성 능력, 이론 지식
 - Weakness: 시간 관리 및 프레임워크 이해 미숙, 실무와의 괴리 → Requires Experience
