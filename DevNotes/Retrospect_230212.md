@@ -18,10 +18,10 @@
 
 ## Current Project...
 ### Plan and Prioritize
-- Strength: 페이지 및 함수 리스트 작성 능력
-- Weakness: 얕은 프레임워크 이해, 실무와의 괴리 → Requires Experience
+- Strength: 페이지 및 함수 리스트 작성 능력, 이론 지식
+- Weakness: 시간 관리 및 프레임워크 이해 미숙, 실무와의 괴리 → Requires Experience
 - Opportunity: 다양한 스터디 자원이 손쉽게 제공되는 환경
-- Threat: 기반 이해의 부족으로 인한 잦은 변경 주의 → Requires Understanding Concepts
+- Threat: 프레임워크 이해 미숙으로 인한 잦은 변경 주의 → Additional Research+
 ### Simplify, Format
 - Strength: 문서화, 영문 작성 능력, 이론 지식
 - Weakness: 무의식적인 정보와 사고 차단 → Additional Research+
