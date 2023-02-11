@@ -1,7 +1,15 @@
 # Tasker
 
-# Work Rules
+## Functions
+- 나만의 철칙, 신나는 주말 약속이나 중요한 미팅, 정기적인 이벤트의 대시보드를 손쉽게 생성, 공유, 공동 작업할 수 있습니다.
+- 대시보드에서 공지, 준비물, 스케줄, 남은 시간, 해야 할 숙제를 확인하세요.
+- 사용자 맞춤 설정을 통해 각자 습관에 맞춘 알림을 제공합니다.
+- 진행도 체크, 투표, 추첨, 설문 조사의 통계를 확인할 수 있습니다.
+
+## Work Rules
 - 계획 및 우선순위 관리
-- 컨디션 관리
-- 별도 리서치  
-=> [DevNotes](https://github.com/1602spam/Tasker/tree/main/DevNotes)
+- 내부 요소 단순화, 형식화
+- 환경 및 컨디션, 외부 요소 관리
+- 별도 리서치
+- 회고  
+[Development Notes](https://github.com/1602spam/Tasker/tree/main/DevNotes)
