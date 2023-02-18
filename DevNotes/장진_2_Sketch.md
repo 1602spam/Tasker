@@ -1,10 +1,4 @@
 # Sketch
-## Process
-- i. Make Page List
-- ii. Mockup
-- iii. Logical Modeling of Functions and Classes
-- iv. Development
-
 ## Environments
 - IDE: IntelliJ IDEA Ultimate 2022.3.2
 - Framework: Spring Boot
@@ -42,6 +36,7 @@
 - 필터
 - 이벤트 생성 위저드
 - 유저 참여
+...
 
-## Retrospect
-- Goal: 합리적인 회의를 통해 큰 그림을 공유하고 각자 역량 발휘 가능한 환경 구성
+## Conclusion
+- 잡설이 길어지므로 모든 사항을 디테일하게 확인할 필요가 없는 비공식 문서 형식은 PPT로 작성
